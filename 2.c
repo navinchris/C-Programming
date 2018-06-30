@@ -1,7 +1,7 @@
 #include<stdio.h>
 void main()
 {
-int N;
+int N,a;
 scanf("%d",&N);
 if(N>1 && N<100000)
 {
