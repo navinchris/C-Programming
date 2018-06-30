@@ -1,5 +1,5 @@
 #include<stdio.h>
-void main()
+int main()
 {
 char c;
 scanf("%c",&c);
@@ -17,4 +17,5 @@ else
 printf("invalid");
 }
 }
+  return 0;
 }
